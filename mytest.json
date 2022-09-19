@@ -1,0 +1,15 @@
+{
+    "start_group": "",
+    "sail_number": {
+        "country": "BEL",
+        "number": 6226
+    },
+    "sailor1": {
+        "name": "Sven Oosterbaan",
+        "sex": "M"
+    },
+    "sailor2": {
+        "name": "Birgit Smit",
+        "sex": "V"
+    }
+}
